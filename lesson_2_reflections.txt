@@ -6,3 +6,8 @@ How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 	In staging area are the files that are going to be commited,
 	files in working directory will not.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+	I can use commands like git diff and git diff --staging to make sure
+	that there is only one logical change in a commit.
