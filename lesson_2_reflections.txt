@@ -26,3 +26,11 @@ the diagram the way we do?
 	Merging two branches together commits all changes made to the files in
 	both of them. We represent them this way because it looks as if the
 	commits to both of them were done to the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+	+  it's easier
+	+  it's easy to make mistakes when merging manually
+	+  it's faster
+	-  there may be conflicts
+	-  you don't always know what was changed
