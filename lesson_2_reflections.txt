@@ -20,3 +20,9 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 	On the diagram I can clearly see when do branches split and what does
 	it mean when I am in a "detached head state".
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+	Merging two branches together commits all changes made to the files in
+	both of them. We represent them this way because it looks as if the
+	commits to both of them were done to the master branch.
